@@ -1,6 +1,4 @@
-"""
-
-DOCUMENTATION
+### DOCUMENTATION ###
 
    SpeedLayer is a maya plugin to speed up the basic layering functionalities inside Maya.  
 
@@ -12,4 +10,3 @@ DOCUMENTATION
    - Change layer colors(WIP)
 
    You can create a macro out of it, a custom shelf is also provided in the folder "Shelf"
-"""
