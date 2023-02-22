@@ -3,7 +3,8 @@ import maya.cmds as mc
 global layerNameField
 
 def createLayer(args):
-    mc.createDisplayLayer(noRecurse=True, name='layer1')
+    layerName = mc.textField(layerNameField, query=True, value=True)
+    mc.createDisplayLayer(noRecurse=True, name=layerName)
 
 def showUI():
     window = mc.window(title="Layer utilities", widthHeight=(400,400))
