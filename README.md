@@ -1,6 +1,6 @@
 ### DOCUMENTATION ###
 
-   SpeedLayer is a maya plugin to speed up the basic layering functionalities inside Maya.  
+   SpeedLayer is a written in python for maya to speed up the basic layering functionalities inside Maya.  
 
    ### FEATURES ###
 
